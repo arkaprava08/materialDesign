@@ -1,0 +1,10 @@
+{
+    "elements": {
+        "md-toolbar": {},
+        "md-icon": {},
+        "md-sidenav": {},
+        "md-button": {},
+        "md-content": {}
+    },
+    "attributes": {}
+}
